@@ -2,7 +2,7 @@
 competition_result(1) is main fail with results were all the method is described
 
 
-6lu7cov.pdb is pdb structure of coronavirus protease without binding small molecule
+6lu7cov.pdb is pdb structure of coronavirus protease without  small molecule or drug that was bind to this protease
 
 
 ChEBI_28572.sdf is sdf file of rescinnamine used for Pyrx docking
