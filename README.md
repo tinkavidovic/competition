@@ -9,8 +9,6 @@ ChEBI_28572.sdf is sdf file of rescinnamine used for Pyrx docking
 
 
 rescinnamine_binding_affinities_pyrx.sdf and rescinnamine_pyrx_binding_affinity.csv are results of binding affinity energy between
-
-
 coronavirus main protease and rescinnamine
 
 
