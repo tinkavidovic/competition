@@ -1,0 +1,115 @@
+
+Mrv0541 12311313022D          
+
+ 10  9  0  0  0  0            999 V2000
+   -1.7786   -7.7855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4930   -8.1979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2074   -7.7854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0641   -8.1980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0641   -9.0230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7785   -9.4355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7785  -10.2605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3496   -6.9605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3496   -7.7855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3649   -8.1980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  9  4  1  0  0  0  0
+  4  1  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+CHEBI:39867
+
+> <NAME>
+valproic acid
+
+> <DEFINITION>
+A branched-chain saturated fatty acid that comprises of a propyl substituent on a pentanoic acid stem.
+
+> <STAR>
+3
+
+> <SECONDARY_ID>
+CHEBI:9926; CHEBI:39858; CHEBI:115217
+
+> <SYNONYM>
+VPA; Valproinsaeure; VALPROIC ACID; n-DPA; DPA; dipropylacetic acid; Di-n-propylessigsaeure; di-n-propylacetic acid; 4-heptanecarboxylic acid; 2-propylvaleric acid; 2-propylpentanoic acid; 2-PROPYL-PENTANOIC ACID; 2-n-propyl-n-valeric acid
+
+> <IUPAC_NAME>
+2-propylpentanoic acid
+
+> <INN>
+valproic acid; acidum valproicum; acido valproico; acide valproique
+
+> <BRAND_NAME>
+Depakene
+
+> <FORMULA>
+C8H16O2
+
+> <MASS>
+144.21140
+
+> <MONOISOTOPIC_MASS>
+144.11503
+
+> <CHARGE>
+0
+
+> <SMILES>
+CCCC(CCC)C(O)=O
+
+> <INCHI>
+InChI=1S/C8H16O2/c1-3-5-7(6-4-2)8(9)10/h7H,3-6H2,1-2H3,(H,9,10)
+
+> <INCHIKEY>
+NIJJYAXOARWZEE-UHFFFAOYSA-N
+
+> <BEILSTEIN_REGISTRY_NUMBER>
+1750447
+
+> <CAS_REGISTRY_NUMBER>
+99-66-1
+
+> <REAXYS_REGISTRY_NUMBER>
+1750447
+
+> <CHEMIDPLUS>
+99-66-1
+
+> <DRUGBANK_ACCESSION>
+DB00313
+
+> <HMDB_ACCESSION>
+HMDB0001877
+
+> <KEGG_COMPOUND_ACCESSION>
+C07185
+
+> <KEGG_DRUG_ACCESSION>
+D00399
+
+> <LINCS_ACCESSION>
+LSM-4620
+
+> <LIPID_MAPS_INSTANCE_ACCESSION>
+LMFA01020291
+
+> <NIST_CHEMISTRY_WEBBOOK>
+99-66-1
+
+> <PDBECHEM_ACCESSION>
+2PP
+
+> <WIKIPEDIA_ACCESSION>
+Valproic_Acid
+
+> <PUBMED_CITATION>
+11716839; 12475192; 15124690; 15560954; 15578701; 16496131; 16621443; 16759735; 17156483; 17273758; 19280426; 19318486; 23792104; 23810771; 23949302; 24135375; 24200999; 24348849; 8558327; 8681902
+
+$$$$
