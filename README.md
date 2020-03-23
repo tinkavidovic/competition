@@ -12,8 +12,8 @@ valproic_acid_binding_energy.sdf and valproic_acid_inding_energy.csv are results
 coronavirus main protease and valproic acid
 
 
-sars_results.csv and mers_results.csv are results of drugs that could inhibit (negative connectivity score) and mimic (positive 
+sars_results.csv is csv file of results of drugs that could inhibit (negative connectivity score) and mimic (positive 
 connectivity score) coronavirus infection
 
 
-HCoV_EMC2012_24Hour_23631916_GSE45042.csv and icSARS_Cov_Day7_None_GSE50000.csv are data used for main CMap analysis
+icSARS_Cov_Day7_None_GSE50000.csv is the data used for main CMap analysis
